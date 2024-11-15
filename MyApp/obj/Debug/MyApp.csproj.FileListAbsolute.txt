@@ -1,0 +1,11 @@
+C:\Users\kuhj1\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\kuhj1\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\kuhj1\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.MDI.resources
+C:\Users\kuhj1\source\repos\MyApp\MyApp\obj\Debug\MyApp.BrightnessForm.resources
